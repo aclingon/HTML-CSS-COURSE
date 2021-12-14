@@ -1,0 +1,18 @@
+table {
+	border: 2px solid darkblue;
+}
+
+td:hover {
+	background-color: white;
+	color: navy;
+}
+
+tr, th {
+	background-color: oldlace;
+	color: plum;
+}
+
+tr, td {
+	background-color: peachpuff;
+	color: salmon;
+}
