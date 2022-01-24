@@ -1,0 +1,22 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    background-color: bisque;
+    color: navy;
+}
+#home {
+    margin: auto;
+    align-content: center;
+}
+
+#order form {
+    width: 60%;
+    margin: auto;
+    border: 6px solid coral;
+}
+#order input[type="text"] {
+    width: 75%;
+    margin: auto;
+    border: 3px solid coral;
+    border-radius: 10px;
+}
