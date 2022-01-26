@@ -4,10 +4,6 @@ body {
     background-color: bisque;
     color: navy;
 }
-#home {
-    margin: auto;
-    align-content: center;
-}
 
 #order form {
     width: 60%;
