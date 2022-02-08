@@ -1,0 +1,10 @@
+body {
+    background-color: whitesmoke;
+    color: darkgreen;
+    font-size: large;
+}
+@media  screen and (max-width: 600px) {
+    body {
+        color: blue;
+    }    
+}
